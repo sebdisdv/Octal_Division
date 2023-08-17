@@ -11,7 +11,7 @@ An updated version is available at
 
 - [Deepproblog repository Updated](https://github.com/ML-KULeuven/deepproblog)
 
-In order to run this code you must first install all the libraries needed. This can be done via the command. The use of a python virtual environment is recommended.
+In order to run this code you must first install all the libraries needed. This can be done via the command
 
 - `pip install -r requirements.txt`
 
