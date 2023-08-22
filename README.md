@@ -2,7 +2,7 @@
 
 ## Install and run
 
-The original source for the deepproblog code used can be found here
+The original source for the deepproblog code used in this project can be found here
 
 - [Deepproblog repository](https://bitbucket.org/problog/deepproblog/src/master/)
 
